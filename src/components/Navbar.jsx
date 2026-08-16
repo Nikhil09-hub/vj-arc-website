@@ -239,7 +239,7 @@ function Navbar() {
                     scrollToSection(item.id)
                   }
                   whileHover={{ y: -1 }}
-                  className="group relative px-4 py-2 text-[13px] font-medium tracking-wide text-gray-400 transition-colors duration-300 hover:text-white"
+                  className="group relative px-4 py-2 text-[14px] font-medium tracking-wide text-gray-400 transition-colors duration-300 hover:text-white"
                 >
                   <span className="relative z-10">
                     {item.name}
